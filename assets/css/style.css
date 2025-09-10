@@ -1467,7 +1467,7 @@ strong {
     font-weight: 600;
 }
 .motivation-sec .motivation-content img {
-    max-width: 188px;
+    max-width: 250px;
     display: block;
 }
 
@@ -2376,7 +2376,7 @@ strong {
 }
 .footer-area .footer-big-text {
     text-transform: uppercase;
-    font-size: 201px;
+    font-size: 194px;
     display: flex;
     align-items: center;
     justify-content: center;
