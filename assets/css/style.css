@@ -2563,5 +2563,6 @@ strong {
 @media screen and (max-width: 640px){
     .work-detail-header-infos .work-detail-header-right ul li{
         flex-direction: column;
+        text-align: center;
     }
 }
