@@ -905,6 +905,7 @@ strong {
     color: var(--dark);
     line-height: 50px;
     margin: 0 0 30px;
+    text-transform: uppercase;
 }
 .work-detail-header-infos .work-detail-header-right {
     width: 556px;
