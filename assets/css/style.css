@@ -132,6 +132,7 @@ strong {
     -moz-transition: .3s ease;
     -ms-transition: .3s ease;
     -o-transition: .3s ease;
+    letter-spacing: 2px;
 }
 .theme-btn::before {
     content: '';
@@ -547,7 +548,7 @@ strong {
     justify-content: center;
 }
 .header-wrap .header-right {
-    width: 180px;
+    width: 205px;
     text-align: right;
 }
 
@@ -905,6 +906,7 @@ strong {
     color: var(--dark);
     line-height: 50px;
     margin: 0 0 30px;
+    text-transform: uppercase;
 }
 .work-detail-header-infos .work-detail-header-right {
     width: 556px;
@@ -2558,4 +2560,9 @@ strong {
     font-size: 16px;
 }
 
-
+@media screen and (max-width: 640px){
+    .work-detail-header-infos .work-detail-header-right ul li{
+        flex-direction: column;
+        text-align: center;
+    }
+}
