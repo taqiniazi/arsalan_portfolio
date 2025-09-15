@@ -828,7 +828,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
@@ -985,8 +985,8 @@ strong {
 .work-detail-full-img img {
     display: block;
     width: 100%;
-    /*height: 100%;
-    object-fit: cover;*/
+    height: 100%;
+    object-fit: cover;
 }
 .work-detail2-content-wrap {
     padding: 90px 40px;
@@ -1101,7 +1101,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 .about-bottom-content-wrap .img-box .img-box-inner {
     width: 100%;
@@ -1427,7 +1427,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 
 
@@ -1493,7 +1493,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 
 
@@ -1709,7 +1709,7 @@ strong {
     border-radius: 10px;
     width: 80px;
     height: 80px;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 .testimonial-box .testimonial-header .testimonial-author-box .testimonial-author-content {
     display: flex;
@@ -2192,7 +2192,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 .photography-box .photography-box-inner {
     width: 100%;
@@ -2202,7 +2202,7 @@ strong {
 .photography-box video {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 .photography-inner-col {
     /* display: flex;
@@ -2299,7 +2299,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
 }
 .contact-infos-wrap .contact-infos {
     display: grid;
@@ -2508,7 +2508,7 @@ strong {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
     transition: .5s;
     -webkit-transition: .5s;
     -moz-transition: .5s;
