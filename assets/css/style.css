@@ -978,15 +978,15 @@ strong {
 }
 .work-detail-full-img .work-detail-full-img-inner {
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
     position: relative;
     transform: scale(1.2);
 }
 .work-detail-full-img img {
     display: block;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    /*height: 100%;*/
+    /*object-fit: cover;*/
 }
 .work-detail2-content-wrap {
     padding: 90px 40px;
