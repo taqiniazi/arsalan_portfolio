@@ -974,13 +974,13 @@ strong {
     border-radius: 10px;
     overflow: hidden;
     position: relative;
-    height: 658px;
+    /*height: 658px;*/
 }
 .work-detail-full-img .work-detail-full-img-inner {
     width: 100%;
     /*height: 100%;*/
     position: relative;
-    transform: scale(1.2);
+    /*transform: scale(1.2);*/
 }
 .work-detail-full-img img {
     display: block;
