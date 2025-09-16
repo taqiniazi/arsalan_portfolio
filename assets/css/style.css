@@ -2565,4 +2565,7 @@ strong {
         flex-direction: column;
         text-align: center;
     }
+    .humberg-menu{
+        display: none;
+    }
 }
